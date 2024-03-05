@@ -1,2 +1,3 @@
 # ParkingMS
-Parking management system (desktop application)
+Parking management system - Windows form application 
++ educational purposes
